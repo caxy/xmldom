@@ -200,7 +200,8 @@ DOMParser.prototype.parseFromString = function(source,mimeType){
     'phi': 'φ',
     'chi': 'χ',
     'psi': 'ψ',
-    'omega': 'ω'
+    'omega': 'ω',
+    'Prime': '″'
   };
 
 	if(locator){
